@@ -4,7 +4,7 @@
 - Like developing and interacting with APIs and CLIs
 - Software Engineer at Addis Ababa Univeristy
 - I am currently working on developing a Telegram MiniGame with onilne payment integrated
-- Also currently learning Go
+- Also learning Go
  
 
 ### 🛠 Skills & Technologies
