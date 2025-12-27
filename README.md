@@ -6,7 +6,6 @@
 - I am currently working on developing a Telegram MiniGame with onilne payment integrated
 - Also currently learning Go
  
-### Hello if your here that means you saw something intersting but trust most of that was made with  
 
 ### 🛠 Skills & Technologies
 
