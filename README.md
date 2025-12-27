@@ -18,9 +18,9 @@
 
 ## Connect with me 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/natnaelyaza23)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnaelyazachewh/)
-[![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Js_Py_Kt)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/natnaelyaza23)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnaelyazachewh/)
+[![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Js_Py_Kt)
 <!--
 **natiman52/natiman52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
